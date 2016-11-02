@@ -1,0 +1,12 @@
+Ajout: Animation Hors Combat
+_________________________________________
+Ajout: Action ID: Entrer en combat
+_________________________________________
+Ajout: Mode Marchant
+_________________________________________
+Beug: Percepteur nom est undefined
+_________________________________________
+Beug: seul un piege marche quand on en a posé pusieurs
+_________________________________________
+Ajout: Challenge
+_________________________________________

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/graphics/gapi/ui/quests
+END
+QuestsObjectiveItem.as
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/graphics/gapi/ui/quests/QuestsObjectiveItem.as
+END
+QuestsStepItem.as
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/graphics/gapi/ui/quests/QuestsStepItem.as
+END
+QuestsStepRewardItem.as
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/graphics/gapi/ui/quests/QuestsStepRewardItem.as
+END
+QuestsQuestItem.as
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/graphics/gapi/ui/quests/QuestsQuestItem.as
+END

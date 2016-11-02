@@ -1,0 +1,3 @@
+Im116;<b>(PUB)</b>~Nous vous rappellons que la <b>boutique</b> est maintenant <b>ouverte</b> , vous pouvez desormais acheter des objet <b>legendaire</b> pour votre personnage via le site web !
+
+IM116; Message1 ~ Message2

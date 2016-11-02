@@ -1,0 +1,12 @@
+gC7|0|6|16777215|Test
+
+Game: Recv << gIG
+Game: Send>>gIG0|1|0|0|1100
+Game: Recv << gIM
+Game: Send>>gIM+1;NightWolf;200;10;1;0;0;1;1;0;0
+
+gJK & ID ( ACCEPTE)
+
+gJE & ID ( REFUSE )
+
+Packet = gP1001|5|2|1

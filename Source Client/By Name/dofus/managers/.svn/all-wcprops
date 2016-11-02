@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/managers
+END
+DebugManager.as
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/managers/DebugManager.as
+END
+KeyManager.as
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/managers/KeyManager.as
+END
+AdminManager.as
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/managers/AdminManager.as
+END
+ServersManager.as
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/managers/ServersManager.as
+END
+GameActionsManager.as
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/managers/GameActionsManager.as
+END
+OptionsManager.as
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/managers/OptionsManager.as
+END
+AreasManager.as
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/managers/AreasManager.as
+END
+SpellsBoostsManager.as
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/managers/SpellsBoostsManager.as
+END
+InteractionsManager.as
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/managers/InteractionsManager.as
+END
+SpellsManager.as
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/managers/SpellsManager.as
+END
+SpeakingItemsManager.as
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/managers/SpeakingItemsManager.as
+END
+TutorialManager.as
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/managers/TutorialManager.as
+END
+NightManager.as
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/managers/NightManager.as
+END
+GameManager.as
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/managers/GameManager.as
+END
+MapsServersManager.as
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/managers/MapsServersManager.as
+END
+DocumentsServersManager.as
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/managers/DocumentsServersManager.as
+END
+CharacteristicsManager.as
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/managers/CharacteristicsManager.as
+END
+TutorialServersManager.as
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/managers/TutorialServersManager.as
+END
+EffectsManager.as
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/managers/EffectsManager.as
+END
+ChatManager.as
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/managers/ChatManager.as
+END
+CharactersManager.as
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/managers/CharactersManager.as
+END
+StreamingDisplayManager.as
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/managers/StreamingDisplayManager.as
+END
+TipsManager.as
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/managers/TipsManager.as
+END
+UIdManager.as
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/managers/UIdManager.as
+END

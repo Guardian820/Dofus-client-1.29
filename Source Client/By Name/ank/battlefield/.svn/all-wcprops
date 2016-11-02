@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/ank/battlefield
+END
+InteractionHandler.as
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/ank/battlefield/InteractionHandler.as
+END
+VisualEffectHandler.as
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/ank/battlefield/VisualEffectHandler.as
+END
+PointerHandler.as
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/ank/battlefield/PointerHandler.as
+END
+Battlefield.as
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/ank/battlefield/Battlefield.as
+END
+TextHandler.as
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/ank/battlefield/TextHandler.as
+END
+SelectionHandler.as
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/ank/battlefield/SelectionHandler.as
+END
+GridHandler.as
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/ank/battlefield/GridHandler.as
+END
+GlobalSpriteHandler.as
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/ank/battlefield/GlobalSpriteHandler.as
+END
+OverHeadHandler.as
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/ank/battlefield/OverHeadHandler.as
+END
+SpriteHandler.as
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/ank/battlefield/SpriteHandler.as
+END
+ZoneHandler.as
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/ank/battlefield/ZoneHandler.as
+END
+PointsHandler.as
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/ank/battlefield/PointsHandler.as
+END
+LoadManager.as
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/ank/battlefield/LoadManager.as
+END
+MapHandler.as
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/ank/battlefield/MapHandler.as
+END
+Constants.as
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/ank/battlefield/Constants.as
+END

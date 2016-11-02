@@ -1,0 +1,12 @@
+FL - packet envoyé par le client (le serveur renvoye FL...) 
+FL|<compte>;<2=encombat>;<pseudo>;<niveau>;<alignID>;9;0;<classeid><sexid> - Affichage du panel/données
+FA<compte> - packet envoyé par le client lors de l'ajout d'un ami (renvoye FAK + FL)
+FAKZhuda;2;Shant;44;9;0;90. - <compte> à été ajouté à vos amis 
+FD*<compte> - packet envoyé par le client lors de la suppression d'un ami (le serveur renvoye FDK)
+FDK - packet renvoyé lors de la reception de FD*<compte>
+
+suppresion : FD... (client) => FDK (serveur) => FL (client) => FL... (serveur)
+
+ajout : FA... (client) => FAK... (serveur) => FL... (serveur)
+
+ouverture : FL (client) x2 => FL... (serveur) x2

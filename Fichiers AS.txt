@@ -1,0 +1,15 @@
+    * sprite20927.as: AdminManager, LE fichier qui gère la gestion de menu admin, qui m'a été très utile !
+    * sprite20685.as: DebugManager, vous savez, les trucs pratiques en mode /console /debug !
+    * sprite20937.as: DebugConsoleParser, c'est ici que j'ai trouvé la liste des commandes /console / qui sont dans MenuAdmin4D0fµs
+    * sprite20844.as: ui.Debug, c'est l'interface de /console
+    * sprite20641.as: ItemSummoner, pour ceux qui veulent voir le code de ce bijou pratique
+    * sprite20605: ItemSelector, le petit frère d'ItemSelector (qui permet l'utilisation de MAX par exemple !)
+    * sprite20734.as: MonsterAndLookSelector, pour ceux qui veulent voir le code de cet outil ma foi pratique pour ceux qui ne connaissent pas les gfxid par cœur
+    * sprite20812.as: ConsoleLogger, l'outil qui gère l'affichage de la console
+    * sprite20815.as: Chat, pour ceux qui s'intéressent au fonctionnement du chat tellement utilisé sur Dofus
+    * sprite20553.as: ChatParser, pour ceux qui veulent savoir comment est traité ce que vous tapez dans le chat
+    * sprites20990: ChatConsoleParser, ceux qui veulent savoir comment sont traitées les commandes et autres dans le chat
+    * sprite20746.as: Liste des constants, c'est ici que j'ai trouvé le nom du fichier pour MenuAdmin4D0fµs, la liste de looks et d'autres choses !
+    * sprite20807.as: character, pour ceux qui veulent voir comment sont traités les personnages sur Dofus
+    * sprite20908.as: CharactersManager, la gestion des personnages (par exemple ajouter le niveau au survol d'un joueur, hors-combat !)
+    * sprite20850.as: DataProcessor: LE ficheir à connaître. Vous cherchez un packet ? il est là !

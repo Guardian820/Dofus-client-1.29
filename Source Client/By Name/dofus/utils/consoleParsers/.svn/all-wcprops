@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/utils/consoleParsers
+END
+ChatConsoleParser.as
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/utils/consoleParsers/ChatConsoleParser.as
+END
+AbstractConsoleParser.as
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/utils/consoleParsers/AbstractConsoleParser.as
+END
+DebugConsoleParser.as
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/utils/consoleParsers/DebugConsoleParser.as
+END

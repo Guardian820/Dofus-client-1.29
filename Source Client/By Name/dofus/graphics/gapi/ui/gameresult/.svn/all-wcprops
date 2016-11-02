@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/graphics/gapi/ui/gameresult
+END
+GameResultTeam.as
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/graphics/gapi/ui/gameresult/GameResultTeam.as
+END
+GameResultPlayer.as
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/graphics/gapi/ui/gameresult/GameResultPlayer.as
+END
+GameResultTeamPVP.as
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/graphics/gapi/ui/gameresult/GameResultTeamPVP.as
+END
+GameResultPlayerPVP.as
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/graphics/gapi/ui/gameresult/GameResultPlayerPVP.as
+END

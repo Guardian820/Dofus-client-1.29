@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/utils/nameChecker/rules
+END
+NameCheckerCharacterNameRules.as
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/utils/nameChecker/rules/NameCheckerCharacterNameRules.as
+END
+NameCheckerGuildNameRules.as
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/utils/nameChecker/rules/NameCheckerGuildNameRules.as
+END
+INameCheckerRules.as
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/utils/nameChecker/rules/INameCheckerRules.as
+END

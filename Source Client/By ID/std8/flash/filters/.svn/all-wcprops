@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Action/std8/flash/filters
+END
+GlowFilter.as
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Action/std8/flash/filters/GlowFilter.as
+END
+DropShadowFilter.as
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Action/std8/flash/filters/DropShadowFilter.as
+END
+GradientBevelFilter.as
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Action/std8/flash/filters/GradientBevelFilter.as
+END
+BitmapFilter.as
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Action/std8/flash/filters/BitmapFilter.as
+END
+BevelFilter.as
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Action/std8/flash/filters/BevelFilter.as
+END
+ConvolutionFilter.as
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Action/std8/flash/filters/ConvolutionFilter.as
+END
+ColorMatrixFilter.as
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Action/std8/flash/filters/ColorMatrixFilter.as
+END
+BlurFilter.as
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Action/std8/flash/filters/BlurFilter.as
+END
+DisplacementMapFilter.as
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Action/std8/flash/filters/DisplacementMapFilter.as
+END
+GradientGlowFilter.as
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Action/std8/flash/filters/GradientGlowFilter.as
+END

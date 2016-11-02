@@ -1,0 +1,341 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/graphics/gapi/controls
+END
+ColorSelector.as
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/graphics/gapi/controls/ColorSelector.as
+END
+InventoryViewer.as
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/graphics/gapi/controls/InventoryViewer.as
+END
+BookPageIndex.as
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/graphics/gapi/controls/BookPageIndex.as
+END
+QuestStepViewer.as
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/graphics/gapi/controls/QuestStepViewer.as
+END
+ItemViewer.as
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/graphics/gapi/controls/ItemViewer.as
+END
+StatsViewer.as
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/graphics/gapi/controls/StatsViewer.as
+END
+CraftViewer.as
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/graphics/gapi/controls/CraftViewer.as
+END
+ChooseCharacterSprite.as
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/graphics/gapi/controls/ChooseCharacterSprite.as
+END
+GridInventoryViewer.as
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/graphics/gapi/controls/GridInventoryViewer.as
+END
+DeathCounter.as
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/graphics/gapi/controls/DeathCounter.as
+END
+Smileys.as
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/graphics/gapi/controls/Smileys.as
+END
+GuildMountParkViewer.as
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/graphics/gapi/controls/GuildMountParkViewer.as
+END
+SpriteViewer.as
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/graphics/gapi/controls/SpriteViewer.as
+END
+QuestionViewer.as
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/graphics/gapi/controls/QuestionViewer.as
+END
+BookPageTitle.as
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/graphics/gapi/controls/BookPageTitle.as
+END
+MiniMap.as
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/graphics/gapi/controls/MiniMap.as
+END
+ChooseServerSprite.as
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/graphics/gapi/controls/ChooseServerSprite.as
+END
+PointsViewer.as
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/graphics/gapi/controls/PointsViewer.as
+END
+SpellInfosViewer.as
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/graphics/gapi/controls/SpellInfosViewer.as
+END
+AlignmentViewer.as
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/graphics/gapi/controls/AlignmentViewer.as
+END
+SpouseViewer.as
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/graphics/gapi/controls/SpouseViewer.as
+END
+PlayerWeight.as
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/graphics/gapi/controls/PlayerWeight.as
+END
+Timeline.as
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/graphics/gapi/controls/Timeline.as
+END
+ClassCustomize.as
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/graphics/gapi/controls/ClassCustomize.as
+END
+JobOptionsViewer.as
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/graphics/gapi/controls/JobOptionsViewer.as
+END
+TaxCollectorsViewer.as
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/graphics/gapi/controls/TaxCollectorsViewer.as
+END
+StarsDisplayer.as
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/graphics/gapi/controls/StarsDisplayer.as
+END
+ArtworkRotation.as
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/graphics/gapi/controls/ArtworkRotation.as
+END
+MountWeight.as
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/graphics/gapi/controls/MountWeight.as
+END
+LivingItemsViewer.as
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/graphics/gapi/controls/LivingItemsViewer.as
+END
+GuildHousesViewer.as
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/graphics/gapi/controls/GuildHousesViewer.as
+END
+Helper.as
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/graphics/gapi/controls/Helper.as
+END
+Chat.as
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/graphics/gapi/controls/Chat.as
+END
+GuildBoostsViewer.as
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/graphics/gapi/controls/GuildBoostsViewer.as
+END
+SpellFullInfosViewer.as
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/graphics/gapi/controls/SpellFullInfosViewer.as
+END
+ChooseItemSkin.as
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/graphics/gapi/controls/ChooseItemSkin.as
+END
+MountViewer.as
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/graphics/gapi/controls/MountViewer.as
+END
+ClassInfosViewer.as
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/graphics/gapi/controls/ClassInfosViewer.as
+END
+BannerSpriteInfos.as
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/graphics/gapi/controls/BannerSpriteInfos.as
+END
+JobViewer.as
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/graphics/gapi/controls/JobViewer.as
+END
+BookPageText.as
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/graphics/gapi/controls/BookPageText.as
+END
+ItemSetViewer.as
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/graphics/gapi/controls/ItemSetViewer.as
+END
+GuildMembersViewer.as
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/graphics/gapi/controls/GuildMembersViewer.as
+END
+Emblem.as
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/graphics/gapi/controls/Emblem.as
+END
+ConquestStatsViewer.as
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/graphics/gapi/controls/ConquestStatsViewer.as
+END
+ConquestZonesViewer.as
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/graphics/gapi/controls/ConquestZonesViewer.as
+END
+ConquestJoinViewer.as
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/graphics/gapi/controls/ConquestJoinViewer.as
+END
+Heart.as
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/graphics/gapi/controls/Heart.as
+END
+BuffViewer.as
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/graphics/gapi/controls/BuffViewer.as
+END
+ClassSelector.as
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/graphics/gapi/controls/ClassSelector.as
+END
+MouseShortcuts.as
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/graphics/gapi/controls/MouseShortcuts.as
+END
+SpellBoostViewer.as
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/graphics/gapi/controls/SpellBoostViewer.as
+END
+Card.as
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/graphics/gapi/controls/Card.as
+END
+InventoryViewerWithAllFilter.as
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/graphics/gapi/controls/InventoryViewerWithAllFilter.as
+END
+QuestStepListViewer.as
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/graphics/gapi/controls/QuestStepListViewer.as
+END
+ListInventoryViewer.as
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/graphics/gapi/controls/ListInventoryViewer.as
+END

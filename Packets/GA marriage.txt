@@ -1,0 +1,9 @@
+617 : guid1;guid1,guid2,-1
+617 : guid1;guid2,guid1,-1
+618 : guid2;guid1,guid1,-1
+Mathias dit (18:43) :
+*donc 619 devrait être la même chose
+Mathias dit (18:44) :
+*619 : guid2;guid1,guid1,-1
+*et si le personnage 1 refuse :
+619 : guid1;guid2,guid2,-1 (ou inverse :/)

@@ -1,0 +1,455 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/datacenter
+END
+Document.as
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/datacenter/Document.as
+END
+ParkMount.as
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/datacenter/ParkMount.as
+END
+NonPlayableCharacter.as
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/datacenter/NonPlayableCharacter.as
+END
+MountableCreature.as
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/datacenter/MountableCreature.as
+END
+GuildRights.as
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/datacenter/GuildRights.as
+END
+OfflineCharacter.as
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/datacenter/OfflineCharacter.as
+END
+ConquestVillageData.as
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/datacenter/ConquestVillageData.as
+END
+Mutant.as
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/datacenter/Mutant.as
+END
+Skill.as
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/datacenter/Skill.as
+END
+LaunchedSpell.as
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/datacenter/LaunchedSpell.as
+END
+Team.as
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/datacenter/Team.as
+END
+TutorialWaiting.as
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/datacenter/TutorialWaiting.as
+END
+ConquestZoneData.as
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/datacenter/ConquestZoneData.as
+END
+TaxCollectorStorage.as
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/datacenter/TaxCollectorStorage.as
+END
+TutorialAction.as
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/datacenter/TutorialAction.as
+END
+ConquestWorldData.as
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/datacenter/ConquestWorldData.as
+END
+Datacenter.as
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/datacenter/Datacenter.as
+END
+Creature.as
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/datacenter/Creature.as
+END
+Job.as
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/datacenter/Job.as
+END
+Subway.as
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/datacenter/Subway.as
+END
+Waypoint.as
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/datacenter/Waypoint.as
+END
+Specialization.as
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/datacenter/Specialization.as
+END
+BigStore.as
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/datacenter/BigStore.as
+END
+Feat.as
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/datacenter/Feat.as
+END
+MountPark.as
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/datacenter/MountPark.as
+END
+Challenge.as
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/datacenter/Challenge.as
+END
+TutorialIf.as
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/datacenter/TutorialIf.as
+END
+QuestObjective.as
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/datacenter/QuestObjective.as
+END
+Character.as
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/datacenter/Character.as
+END
+Effect.as
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/datacenter/Effect.as
+END
+QuestStep.as
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/datacenter/QuestStep.as
+END
+Item.as
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/datacenter/Item.as
+END
+Craft.as
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/datacenter/Craft.as
+END
+Conquest.as
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/datacenter/Conquest.as
+END
+Hint.as
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/datacenter/Hint.as
+END
+TaxCollector.as
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/datacenter/TaxCollector.as
+END
+Tutorial.as
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/datacenter/Tutorial.as
+END
+Basics.as
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/datacenter/Basics.as
+END
+Question.as
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/datacenter/Question.as
+END
+Game.as
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/datacenter/Game.as
+END
+Alignment.as
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/datacenter/Alignment.as
+END
+DofusMap.as
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/datacenter/DofusMap.as
+END
+Spell.as
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/datacenter/Spell.as
+END
+PrismSprite.as
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/datacenter/PrismSprite.as
+END
+Subarea.as
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/datacenter/Subarea.as
+END
+Exchange.as
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/datacenter/Exchange.as
+END
+TutorialWaitingCase.as
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/datacenter/TutorialWaitingCase.as
+END
+House.as
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/datacenter/House.as
+END
+Crafter.as
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/datacenter/Crafter.as
+END
+JobOptions.as
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/datacenter/JobOptions.as
+END
+ServerProblem.as
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/datacenter/ServerProblem.as
+END
+Monster.as
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/datacenter/Monster.as
+END
+ServerProblemEvent.as
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/datacenter/ServerProblemEvent.as
+END
+Rank.as
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/datacenter/Rank.as
+END
+CloseCombat.as
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/datacenter/CloseCombat.as
+END
+Accessory.as
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/datacenter/Accessory.as
+END
+FeatEffect.as
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/datacenter/FeatEffect.as
+END
+ServerInformations.as
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/datacenter/ServerInformations.as
+END
+FightInfos.as
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/datacenter/FightInfos.as
+END
+Quest.as
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/datacenter/Quest.as
+END
+Mount.as
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/datacenter/Mount.as
+END
+ConquestBonusData.as
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/datacenter/ConquestBonusData.as
+END
+GuildInfos.as
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/datacenter/GuildInfos.as
+END
+TutorialBloc.as
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/datacenter/TutorialBloc.as
+END
+Storage.as
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/datacenter/Storage.as
+END
+PrismPoint.as
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/datacenter/PrismPoint.as
+END
+MonsterGroup.as
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/datacenter/MonsterGroup.as
+END
+Server.as
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/datacenter/Server.as
+END
+PlayableCharacter.as
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/datacenter/PlayableCharacter.as
+END
+LocalPlayer.as
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/datacenter/LocalPlayer.as
+END
+Shop.as
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/datacenter/Shop.as
+END
+SecureCraftExchange.as
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/datacenter/SecureCraftExchange.as
+END
+ItemSet.as
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/datacenter/ItemSet.as
+END
+Order.as
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/datacenter/Order.as
+END
+QuestBook.as
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/dofus/datacenter/QuestBook.as
+END

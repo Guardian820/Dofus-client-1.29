@@ -1,0 +1,9 @@
+IsSit As Boolean = False
+On parse eU<emote>
+On renvoye eUK<idPerso>|<emote>
+IsSit = True
+
+If IsSit = True
+Client.Send("eUK<idPerso>|0")
+
+TODO : Regarder la régénération de la vie sous Ancestra 

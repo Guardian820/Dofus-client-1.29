@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/com/ankamagames/exceptions
+END
+FileLoadException.as
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/com/ankamagames/exceptions/FileLoadException.as
+END
+AbstractException.as
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/com/ankamagames/exceptions/AbstractException.as
+END
+ValueOutOfRangeException.as
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/com/ankamagames/exceptions/ValueOutOfRangeException.as
+END
+InvalidOperationException.as
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/com/ankamagames/exceptions/InvalidOperationException.as
+END
+NullPointerException.as
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/emudofus/!svn/ver/1/Packs/Source_Client1.29.1/Loader/com/ankamagames/exceptions/NullPointerException.as
+END
